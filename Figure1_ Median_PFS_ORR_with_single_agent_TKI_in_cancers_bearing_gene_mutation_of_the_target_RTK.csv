@@ -1,0 +1,98 @@
+Gene;Alteration;Type;Name;Clinical trial phase;"Reference retained 
+(first author, journal, date)";Trial identifier ( clinicaltrials.gov number or pubmed identifier);Agents;ORR;mPFS
+ALK;Translocation;ALCL;"ALK
+Lymphoma";2;Fukano, Cancer Science 2020;PMID:ÿ33010107 (No NCT number);"Alectinib
+";80%;20.0
+ALK;Translocation;IMT;"ALK
+IMT";2;Fischer, Lancet Oncol 2021;NCT01742286;"Crizotinib
+Crizotinib
+Ceritinib";50%;25.0
+ALK;Translocation;LUAD;"ALK
+LUAD";3;Solomon J Clin Oncol 2024;NCT03052608;Lorlatinib;81%;68.0
+ALK;Mutation;Misc.;"ALK
+Misc.";2;Gambacorti-Passerini, Am J Hematol 2019;NCT01121588;Crizotinib;0%;1.3
+ALK;Mutation;Neurob.;"ALK
+Neurob.";2;Goldsmith, Nature Med, 2023;"NCT00939770
+NCT03107988.";Lorlatinib;20%;5.0
+EGFR;Amplification;ESTA;"EGFR
+ESCA";2;Huang, J Thor Oncol  2016;NCT01855854;Icotinib;17%;1.7
+EGFR;Amplification;GBM;"EGFR
+GBM";2;S‚pulveda-S…nchez, J NeuroOncol  2017;NCT01520870;Dacomitinib f;4%;2.6
+EGFR;Mutation;LUAD;"EGFR
+LUAD";3;Soria , N Engl J Med, 2019;NCT02296125;Osimertinib;80%;18.9
+ERBB2;Mutation;BLCA;"HER2
+BLCA";2;Hyman , Nature, 2018;NCT01953926;Neratinib;5%;4.0
+ERBB2;Amplification;BRCA;"HER2
+BRCA";2;Marti, Eur J Cancer, 2013;NCT00777101;Neratinib;29%;4.5
+ERBB2;Mutation;BRCA;"HER2
+BRCA";2;Hyman , Nature, 2018;NCT01953926;Neratinib;10%;3.5
+ERBB2;Mutation;CHOL;"HER2
+COAD";2;Hyman , Nature, 2018;NCT01953926;Neratinib;0%;2.8
+ERBB2;Mutation;COAD;"HER2
+COAD";2;Hyman , Nature, 2018;NCT01953926;Neratinib;0%;1.8
+ERBB2;Amplification;GEC;"HER2
+STAD";2;Oh, Gastric Cancer,2016;NCT01152853;Dacomitinib;9%;2.0
+ERBB2;Mutation;LUAD;"HER2
+LUAD";2;Le,J Clin Oncol 2022;NCT03318939;Poziotinib;28%;5.5
+ERBB2;Mutation;Misc.;"HER2
+Misc.";2;Hyman , Nature, 2018;NCT01953926;Neratinib;0%;1.7
+FGFR1;Amplification;BRCA;"FGFR1
+BRCA";2;Hui, Clin Can Res, 2020;NCT02053636;Lucitanib;19%;1.6
+FGFR1-2-3;Amplification;Misc.;"FGFR 1-2-3
+Miscel.
+";2;Soria, Ann Oncol, 2014;NCT01283945;Lucitanib;0%;2.0
+FGFR1-2-3;Translocation;Misc.;"FGFR 1-2-3-4
+Miscel.";2;Pant, Lancet Oncol 2023;NCT04083976;Erdafitinib;33%;4.2
+FGFR1-2-3;Mutation;Misc.;"FGFR 1-2-3
+Miscel.
+";1;Nogova, J Clin Oncol  2017;NCT01004224;Infigratinib;0%;3.0
+FGFR2;Translocation;CHOL;"FGFR2
+CHOL";2;Abou-Alfa, Lancet Oncol 2020;NCT02924376;Pemigratinib;30%;6.0
+FGFR2;Amplification;LUSC;"FGFR1
+LUSC";1;Nogova J Clin Oncol 2017;NCT01004224;Infigratinib ;15%;2.0
+FGFR2;Amplification;STAD;"FGFR2
+STAD";2;Meric-Bernstam, Cancer Discov 2022;NCT02052778;Futibatinib;20%;1.5
+FGFR2;Mutation;UCEC;"FGFR2
+UCEC";2;Konecny, Lancet Oncol, 2015;NCT01379534;Dovitinib;31%;4.1
+FGFR3;Mutation;BLCA;"FGFR3
+BLCA";2;Siefker-Radtke Lancet Oncol 2022;NCT02365597;Erdafitinib;36%;5.6
+FGFR3;Translocation;BLCA;"FGFR3
+BLCA";2;Loriot, N Engl J Med, 2019;NCT02365597;Erdafitinib;30%;5.6
+KIT;Mutation;GIST;"KIT
+GIST";3;Casali,  J Clin Oncol  2017 ;PMID:ÿ28362562;Imatinib;54%;24.0
+KIT;Amplification;Misc.;"KIT
+Misc";2;Hye Ryeon, J Cancer Res and Ther, 2024;NCT02461849;Imatinib;41%;2.2
+KIT;Mutation;SKME;"KIT
+Melan.";2;Guo, Ann Oncol  2017;NCT01028222;Nilotinib;26%;4.2
+MET;Mutation;LUAD;"MET ex14
+LUAD";2;"Wolf, N Engl J Med 2020
+";NCT02414139;Capmatinib;68%;12.6
+MET  ;Amplification;GEC;"MET
+STAD";2;Lennerz, J Clin Oncol  2011;NCT00585195;Crizotinib;50%;3.5
+MET  ;Mutation;KIRP;"MET
+KIRP";2;Choueiri, J Clin Oncol  2013;NCT00726323;Foretinib;40%;9.0
+MET  ;Amplification;LUAD;"MET
+LUAD";2;"
+Wolf, N Engl J Med 2020";NCT02414139;Capmatinib;30%;4.2
+NTRK1-2-3;Translocation;Misc.;"NTRK1-2-3
+Misc.";2;Drilon , N Engl J Med 2018;NCT02122913,ÿNCT02637687, andÿNCT02576431;Larotrectinib;80%;18.0
+PDGFRA;Mutation;GIST;"PDGFRA
+GIST";1;Jones, Eur J C 2021;NCT02508532;"
+Avapritinib ";91%;34.0
+RET;Translocation;LUAD;"RET
+LUAD";2;Zhou, N Engl J Med 2023;NCT04194944;Selpercatinib;84%;24.8
+RET;Translocation;Misc.;"RET
+Misc.";1;Subbiah, Lancet Oncol 2024;NCT03157128;Selpercatinib ;44%;13
+RET;Translocation;Misc.;"RET
+Misc.";1;Subbiah, Lancet Oncol 2024;NCT03157128;Selpercatinib ;20%;9.4
+RET;Mutation;MTC;"RET
+med.THYR";2;Wirth, J Clin Oncol, 2024;NCT03157128;Selpercatinib;82%;53.0
+RET;Mutation;Pheo;"RET
+Pheo";1;"Deschler-Baier, J Clin Endocrinol Metab
+. 2025";NCT03157128;Selpercatinib ;60%;9.4
+RET;Translocation;THYR;"RET
+THYR";2;Wirth, J Clin Oncol, 2024;NCT03157128;Selpercatinib;96%;44.0
+ROS1;Translocation;LUAD;"ROS1
+LUAD";3;Drilon, N Engl J Med 2024;NCT03093116;Repotrectinib;79%;35.7
+ROS1;Translocation;Misc.;"ROS1
+Misc. Pediatric";2;Desai, Neuro Oncol, 2022;NCT02650401;Entrectinib;72%;10.0
